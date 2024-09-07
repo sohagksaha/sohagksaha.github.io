@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Sohag Kumar Saha / Homepage"
 title_separator          : "-"
-name                     : &name "Sohag Kumar Saha"
-description              : &description "PhD Student in Electrical and Computer Engineering at Tennessee Tech University, USA"
-url                      : https://sohagksaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Sohag Kumar Saha"
+description              : "PhD Student in Electrical and Computer Engineering at Tennessee Tech University, USA"
+URL                      : "https://sohagksaha.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sohagksaha/sohagksaha.github.io"
 
@@ -22,10 +22,10 @@ repository               : "sohagksaha/sohagksaha.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : " Sohag Kumar Saha"
-  pronouns         : "He/his"  
+  name             : "Sohag Kumar Saha"
+  pronouns         : #  
   bio              : "PhD in Electrical and Computer Engineering"
-  location         : "Cookeville, TN,USA"
+  location         : "Cookeville, TN, USA"
   employer         : "Tennessee Tech University"
   URI              : "www.sohag.net"
   email            : "ssaha42@tntech.edu" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sohagksaha"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
